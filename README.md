@@ -1,14 +1,4 @@
-# Hack the climate - for a sustainable world!
-
-## Challenge picked
-
-Methane as a greenhouse gas is 84 times more powerful than carbon dioxide over a 20-year period. Around a third of anthropogenic methane emissions come from the fossil fuel industry; it seeps from deep coal mines, it vents from oil and gas wells, and it leaks from pipelines. The extent of these emissions has historically been underestimated, and voluntary reporting of emissions has proved insufficient. With global demand for fossil fuels forecast to rebound, it is more important than ever to understand the climate impact of their production. Only in recent years have the tools become available to measure methane emissions directly, although the practice is in its infancy. The challenge is to use the available monitoring data to identify large methane emission events, and attribute these to fossil fuel infrastructure on the ground. This will help to identify the offending players and raise awareness of the true climate impact of fossil fuels
-
-## Inspiration
-
-We are entering the last 2 decades before climate change becomes irreversible. Methane is a large contributor to global warming and there is a lack of accountability for large pollution events, especially by  the coal/fossil and gas industry
-
-New satellite imaging has recently allowed to keep track of methane emissions close to real-time. However, access to the data and the potential methane leak event is still complicated. We think we can make that simpler so people can be aware of new leaks as they arrive and enable them to take actions
+# Methane Leaks
 
 ## What it does
 
