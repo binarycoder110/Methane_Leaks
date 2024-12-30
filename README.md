@@ -1,7 +1,5 @@
 # Hack the climate - for a sustainable world!
 
-Developed as part of the DevPost climate hackathon: https://hacktheclimate.devpost.com/
-
 ## Challenge picked
 
 Methane as a greenhouse gas is 84 times more powerful than carbon dioxide over a 20-year period. Around a third of anthropogenic methane emissions come from the fossil fuel industry; it seeps from deep coal mines, it vents from oil and gas wells, and it leaks from pipelines. The extent of these emissions has historically been underestimated, and voluntary reporting of emissions has proved insufficient. With global demand for fossil fuels forecast to rebound, it is more important than ever to understand the climate impact of their production. Only in recent years have the tools become available to measure methane emissions directly, although the practice is in its infancy. The challenge is to use the available monitoring data to identify large methane emission events, and attribute these to fossil fuel infrastructure on the ground. This will help to identify the offending players and raise awareness of the true climate impact of fossil fuels
